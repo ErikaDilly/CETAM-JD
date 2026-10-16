@@ -10,9 +10,8 @@ Aqui você encontrará slides, códigos, listas de exercícios, projetos e mater
 
 | Disciplina | Descrição | Material |
 |------------|-----------|----------|
-| 🕹️ **Banco de Dados para Jogos Digitais** | Técnicas de testes, debugging, profiling e otimização de performance em jogos digitais. | [📂 Acessar](https://github.com/ErikaDilly/BDJD/wiki) |
 | 🕹️ **Testes e Otimização de Jogos Digitais** | Técnicas de testes, debugging, profiling e otimização de performance em jogos digitais. | [📂 Acessar](./testes-otimizacao-jogos) |
-
+| 🕹️ **Banco de Dados para Jogos Digitais** | Técnicas de testes, debugging, profiling e otimização de performance em jogos digitais. | [📂 Acessar](https://github.com/ErikaDilly/BDJD/wiki) |
 ---
 <!--
 ## 🕹️ Testes e Otimização de Jogos Digitais
